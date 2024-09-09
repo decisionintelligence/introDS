@@ -18,35 +18,13 @@
 
 《数据科学导论》的主要内容是以数据为中心，通过计算思维与数据思维的方法，来理解我们所处的世界（科学），以及对现实问题的求解（工程）。其最重要的思维方式是数据思维，简单来说就是以数据为中心的问题求解。
 
-### 2、课程安排
 
-详细的课程内容安排如下所示：
-
----
-
-
-| 周数📆 | 日期🕣 | 内容📒                       |                 主讲💂‍♂️                 |                          本周任务 📌                          |                            课件📘                             |                          开放资源📂                           |
-| :---: | :---: | --------------------------- | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  01   | 09-11 | 数据科学概述                | [@will-ww](https://github.com/will-ww) | [任务01](https://github.com/X-lab2017/ds-2023-autumn/issues/1) | [课件01](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture01) | [资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
-|  02   | 09-18 | 数据思维与案例              | [@will-ww](https://github.com/will-ww) | [任务02](https://github.com/X-lab2017/ds-2023-autumn/issues/3) | [课件02](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture02) | [资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
-|  03   | 09-25 | 计算系统与基础设施          | [@will-ww](https://github.com/will-ww) | [任务03](https://github.com/X-lab2017/ds-2023-autumn/issues/7) | [课件03](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture03) | [资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
-|  04   | 10-02 | -                           |                                        |                                                              |                                                              |                                                              |
-|  05   | 10-09 | 数据全生命周期管理 & 数据库 | [@will-ww](https://github.com/will-ww) | [任务05](https://github.com/X-lab2017/ds-2023-autumn/issues/8) | [课件05](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture05) | [资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
-|  06   | 10-16 | 数据科学过程与分析方法      | [@will-ww](https://github.com/will-ww) | [任务06](https://github.com/X-lab2017/ds-2023-autumn/issues/11) | [课件06](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture06) | [资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
-|  07   | 10-23 | 机器学习                    |              @hujilin1229              | [任务07](https://github.com/X-lab2017/ds-2023-autumn/issues/13) | [课件07](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture07) | [资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
-|  08   | 10-30 | 数据挖掘                    |              @hujilin1229              | [任务08](https://github.com/X-lab2017/ds-2023-autumn/issues/14) | [课件08](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture08) | [资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
-|  09   | 11-06 | 数据科学综合实践            | [@will-ww](https://github.com/will-ww) |                                                              |                                                              |                                                              |
-
----
-
-
-### 3、参考教材
+### 2、参考教材
 
 - **《数据科学与工程导论》**：https://github.com/will-ww/IntroDaSE
 
 <div align=center>
 <img src="https://github.com/X-lab2017/ds-2023-autumn/assets/15010826/10aa5862-d514-493b-a119-fb40d9f17499" width="550px">
 </div>
-
 
 
